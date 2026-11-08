@@ -204,4 +204,4 @@ This repository serves as the official landing page for Spellslayer. The softwar
 **Get the most recent version of Spellslayer today!**
 
 ---
-**Last updated:** 2026-11-07 21:22:34 UTC
+**Last updated:** 2026-11-08 01:01:28 UTC
